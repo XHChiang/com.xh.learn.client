@@ -17,6 +17,9 @@ import org.springframework.jmx.support.MBeanServerConnectionFactoryBean;
 import com.xh.learn.website.webProducts.jmx.IJmx;
 import com.xh.learn.website.webProducts.jmx.listener.JMXListener;
 
+/**
+ * JMX配置
+ */
 @Configuration
 public class JMXConfig {
 
